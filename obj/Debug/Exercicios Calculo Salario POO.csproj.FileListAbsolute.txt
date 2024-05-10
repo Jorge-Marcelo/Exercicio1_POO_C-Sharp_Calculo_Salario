@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\bin\Debug\Exercicios Calculo Salario POO.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\bin\Debug\Exercicios Calculo Salario POO.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\bin\Debug\Exercicios Calculo Salario POO.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\obj\Debug\Exercicios Calculo Salario POO.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\obj\Debug\Exercicios Calculo Salario POO.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\obj\Debug\Exercicios Calculo Salario POO.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicios Calculo Salario POO\Exercicios Calculo Salario POO\obj\Debug\Exercicios Calculo Salario POO.pdb
